@@ -27,7 +27,7 @@ public class Aritmatika {
     
    /* penjumlahan */
     public double penjumlahan(){
-        return 0 ;
+        return bilsatu + bildua;
     }
     
    /* pengurangan */
